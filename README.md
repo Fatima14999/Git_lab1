@@ -1,1 +1,1 @@
-# Git_lab1
+This repository demonstrates GitHub and CLI tasks
